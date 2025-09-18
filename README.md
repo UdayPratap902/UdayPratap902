@@ -48,8 +48,8 @@ Always learning. Always building. Let’s connect, collaborate, and create somet
 
 ### 📊 GitHub Stats
 
-![](https://raw.githubusercontent.com/UdayPratap902/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/UdayPratap902/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/UdayPratap902/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/UdayPratap902/github-stats/master/generated/languages.svg)
 
 ---
 
