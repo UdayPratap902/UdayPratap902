@@ -18,6 +18,11 @@ Always learning. Always building. Let’s connect, collaborate, and create somet
 
 -  📫 How to reach me **yudaysingh09@gmail.com**
 
+  ### Connect with me:
+<p align="left">
+<a href="http://www.linkedin.com/in/udaysingh902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="UdayPratap902" height="30" width="40" /></a>
+</p>
+
 ---
 
 ### 🛠️ Technologies & Tools
@@ -37,12 +42,9 @@ Always learning. Always building. Let’s connect, collaborate, and create somet
 
 ---
 
-### 🔥 My Contribution Streak
+### Contributions🛠️
+<img src="https://github.com/alokverma18/alokverma18/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" width="100%" />
 
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=UdayPratap902" alt="GitHub Streak" /></a>
-<!--   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
-</div>
 
 ---
 
