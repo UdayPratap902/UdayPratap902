@@ -42,8 +42,9 @@ Always learning. Always building. Let’s connect, collaborate, and create somet
 
 ---
 
-### Contributions🛠️
-<img src="https://github.com/alokverma18/alokverma18/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+###  Contribution Snake 🛠️
+
+<img src="https://raw.githubusercontent.com/UdayPratap902/UdayPratap902/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 
 ---
