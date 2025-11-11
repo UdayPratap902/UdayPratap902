@@ -42,10 +42,6 @@ Always learning. Always building. Let’s connect, collaborate, and create somet
 
 ---
 
-###  Contribution Snake 🛠️
-
-<img src="https://raw.githubusercontent.com/UdayPratap902/UdayPratap902/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 
 ---
 
@@ -55,6 +51,12 @@ Always learning. Always building. Let’s connect, collaborate, and create somet
 ![](https://raw.githubusercontent.com/UdayPratap902/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
+
+###  Contribution Snake 🛠️
+
+![snake gif](https://github.com/UdayPratap902/UdayPratap902/blob/output/github-contribution-grid-snake.gif)
+
+--
 
 ### ⛩ My Contribution Graph
 [![Uday's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UdayPratap902&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/UdayPratap902/github-readme-activity-graph)
