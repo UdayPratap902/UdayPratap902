@@ -52,10 +52,8 @@ Always learning. Always building. Let’s connect, collaborate, and create somet
 
 ---
 
-###  Contribution Snake 🛠️
-
-![snake gif](https://github.com/UdayPratap902/UdayPratap902/blob/output/github-contribution-grid-snake.gif)
-
+###  Contribution 🛠️
+<img src="https://github.com/UdayPratap902/UdayPratap902/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" width="100%" />
 --
 
 ### ⛩ My Contribution Graph
