@@ -1,12 +1,12 @@
-<!-- <h1 align="center"> -->
-  <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Alice&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Uday+Pratap+Singh!;" /> -->
-<!-- </h1> -->
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Alice&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Uday+Pratap+Singh!;" />
+</h1> 
 
 ---
 
 ### 🚀 About Me
 
-<p>👋 Hey there! I’m Vadri Pandey — a curious builder who doesn’t just write code, but crafts experiences.
+<p>👋 Hey there! I’m Uday Pratap Singh — a curious builder who doesn’t just write code, but crafts experiences.
 
 I turn ideas into intuitive tools using React, Tailwind CSS, JavaScript, and Python. From dynamic front-end interfaces to AI-powered experiments and Firebase-powered apps, I love working at the intersection of functionality and creativity.
 
